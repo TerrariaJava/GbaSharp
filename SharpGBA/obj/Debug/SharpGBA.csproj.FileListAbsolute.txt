@@ -1,0 +1,8 @@
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\bin\Debug\SharpGBA.exe.config
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\bin\Debug\SharpGBA.exe
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\bin\Debug\SharpGBA.pdb
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\obj\Debug\SharpGBA.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\obj\Debug\SharpGBA.Properties.Resources.resources
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\obj\Debug\SharpGBA.csproj.GenerateResource.Cache
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\obj\Debug\SharpGBA.exe
+c:\users\jose\documents\visual studio 2012\Projects\SharpGBA\SharpGBA\obj\Debug\SharpGBA.pdb
